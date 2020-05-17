@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Math and reading scores for were analysed and compared for 15 high schools in a district. Upon completion of the analysis, it was discovered that a select group of scores, specifically those of the 9th graders in Thomas High School, were tampered with and the decision was made to remove all the affected scores. Below findings are of the changes caused by that removal.
+Math and reading scores for were analysed and compared for 15 high schools. Upon completion of the analysis, it was discovered that a select group of scores, specifically those of the 9th graders in Thomas High School, were tampered with and the decision was made to remove all the affected scores. Below findings are of the changes caused by that removal.
 
 ## Resources
 
